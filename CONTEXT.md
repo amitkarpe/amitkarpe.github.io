@@ -22,13 +22,13 @@ Status: ACTIVE
 ## Active Work
 
 - Issue: `#1` — Knowledge Portal v1
-- PR: bootstrap PR for Issue #1
+- PR: `#2` — bootstrap Knowledge Portal collaboration context
 - Current milestone: establish durable repository guidance and handoff so a fresh G can implement Knowledge Portal v1.
 - Blocker: none.
 
 ## Next Action
 
-A fresh G should read `AGENTS.md`, this file, Issue #1, and the active PR. Then continue Issue #1 by inspecting the existing live site and proposing/implementing the smallest maintainable knowledge-portal structure without breaking the public URL.
+A fresh G should read `AGENTS.md`, this file, Issue #1, and PR #2. Then continue Issue #1 by inspecting the existing live site and proposing/implementing the smallest maintainable knowledge-portal structure without breaking the public URL.
 
 The first implementation milestone should preserve existing useful content, define navigation/taxonomy, and publish 3–5 sanitized seed articles from public source repositories.
 
@@ -36,4 +36,4 @@ The first implementation milestone should preserve existing useful content, defi
 
 Use:
 
-`@GitHub Read AGENTS.md, CONTEXT.md, Issue #1 and the active PR in https://github.com/amitkarpe/amitkarpe.github.io, then continue Knowledge Portal v1.`
+`@GitHub Read AGENTS.md, CONTEXT.md, Issue #1 and PR #2 in https://github.com/amitkarpe/amitkarpe.github.io, then continue Knowledge Portal v1.`
