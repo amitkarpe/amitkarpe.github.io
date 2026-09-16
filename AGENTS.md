@@ -6,12 +6,16 @@ This repository publishes Amit's public engineering knowledge portal at `https:/
 
 The portal curates sanitized, reusable technical knowledge and public portfolio content across AWS, GitHub/OIDC, agentic AI, AgentCore, MCP, DevSecOps, security, automation, troubleshooting, and related engineering work.
 
-## Read Order
+## Bootstrap / Recovery Order
+
+Use this order for cold start, recovery, materially changed governing context, or stale/incomplete/contradictory state:
 
 1. `AGENTS.md`
 2. `CONTEXT.md`
-3. the owning GitHub Issue/PR and latest relevant handoff
+3. the owning GitHub Issue/PR and latest relevant authorized handoff/comment
 4. site configuration and content needed for the active milestone
+
+For warm continuation, use the owning Issue/PR, latest relevant authorized delta, and current HEAD. Do not reread the full repository context on every handoff.
 
 ## Repository Role
 
